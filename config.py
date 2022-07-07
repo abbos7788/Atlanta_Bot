@@ -1,0 +1,3 @@
+TOKEN = '5376525971:AAEyIhhoQ1bzVAvyclG1txmD0PYkIukUjvI'
+chat_id = '-1001722090137'
+chat_id2 = '-1001794987264'
